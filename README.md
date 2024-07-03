@@ -72,6 +72,3 @@ Add additional notes about how to deploy this on a live system.
 - [@iancooperman](https://github.com/iancooperman) - Idea & Initial work
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
