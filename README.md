@@ -37,7 +37,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 What things you need to install the software and how to install them.
-
+1. **Download Python**: Go to the official Python website (https://www.python.org/) and download the appropriate installer for your operating system and architecture (32-bit or 64-bit).
+2. **Run the Installer**: Open the downloaded file to start the installation process.
+3. **Install Python**: Click on the ‘Install Now’ button. The installer will copy files and set up Python on your computer.
 ```
 Give examples
 ```
